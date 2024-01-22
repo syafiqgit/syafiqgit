@@ -1,6 +1,6 @@
 # Hi, I'm Syafiq! 👋
 
 ## 🚀 About Me
-I am a non IT graduate who aspires to be a front-end developer. I've taken several online courses and personal
-projects to improve my skills in HTML, CSS, and JavaScript, as well as learned frameworks like React JS and Next JS. I
-love the challenge and opportunity to create an attractive and functional web interface.
+Frontend Engineering works with HTML, CSS, and React Js to implement designs from UI/UX into website with the right size then deploy to hosting.
+I can collaborate with teammates in version control systems such as GitHub, manage responsiveness with CSS frameworks, consumes restful API, and use redux as global state management.
+I have the motivation to work as a front-end developer because it has challenges to solve problems.
