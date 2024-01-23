@@ -5,9 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syafiqgit" alt="syafiqgit" /></a> </p>
 
-- 💬 Ask me about **React JS and Next JS**
+- 🔭 I’m currently working on [TukangKU](https://github.com/TukangKU/FE)
+
+- 🌱 I’m currently learning **Next JS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/syafiqgit?tab=repositories](https://github.com/syafiqgit?tab=repositories)
+
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **syafiqsteam744@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/syafiq-fe](www.linkedin.com/in/syafiq-fe)
+
+- ⚡ Fun fact **I can play games while multitasking, such as doing assignments, listening to music, or watching movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
