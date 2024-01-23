@@ -1,4 +1,4 @@
-<img align="center" alt="syafiqgit" width="1000" height="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="center" alt="syafiqgit" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <h1 align="center">Hi 👋, I'm Syafiq</h1>
 <h3 align="justify">Frontend Engineering works with HTML, CSS, and React Js to implement designs from UI/UX into website with the right size then deploy to hosting. I can collaborate with teammates in version control systems such as GitHub, manage responsiveness with CSS frameworks, consumes restful API, and use redux as global state management. I have the motivation to work as a front-end developer because it has challenges to solve problems.</h3>
 
